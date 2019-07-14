@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="Navbar &amp; Navs">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/bootstrap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bootstrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bootstrap.iml" afterDir="false" />
+    <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/3_4_list_groups_badges.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/3_4_list_groups_badges.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/3_5_forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/3_5_forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/3_6_input_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/3_6_input_groups.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,18 +24,6 @@
               <caret line="81" column="40" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="40" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/2_7_sizing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2772">
-              <caret line="99" selection-start-line="99" selection-end-line="99" />
-              <folding>
-                <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,14 +59,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/3_4_list_groups_badges.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="161" column="41" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
+            <state relative-caret-position="248">
+              <caret line="161" column="52" lean-forward="true" selection-start-line="161" selection-start-column="52" selection-end-line="161" selection-end-column="52" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/3_5_forms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="201" column="6" lean-forward="true" selection-start-line="201" selection-start-column="6" selection-end-line="201" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/3_6_input_groups.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="170" column="52" selection-start-line="170" selection-start-column="52" selection-end-line="170" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -110,11 +110,6 @@
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -154,6 +149,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/sandbox/index.html" />
         <option value="$PROJECT_DIR$/sandbox/3_4_list_groups_badges.html" />
+        <option value="$PROJECT_DIR$/sandbox/3_5_forms.html" />
+        <option value="$PROJECT_DIR$/sandbox/3_6_input_groups.html" />
       </list>
     </option>
   </component>
@@ -230,10 +227,10 @@
     </option>
   </component>
   <component name="RunManager" selected="npm.start">
-    <configuration name="2_6_spacing.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/bootstrap/sandbox/2_6_spacing.html" useBuiltInWebServerPort="true">
+    <configuration name="127.0.0.1:8080" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://127.0.0.1:8080/">
       <method v="2" />
     </configuration>
-    <configuration name="bootstrap" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/bootstrap" useBuiltInWebServerPort="true">
+    <configuration default="true" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://127.0.0.1:8080/">
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -247,14 +244,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.bootstrap" />
-      <item itemvalue="JavaScript Debug.2_6_spacing.html" />
+      <item itemvalue="JavaScript Debug.127.0.0.1:8080" />
       <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="npm.start" />
-        <item itemvalue="JavaScript Debug.2_6_spacing.html" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +267,7 @@
       <workItem from="1562947313294" duration="656000" />
       <workItem from="1562947980643" duration="1379000" />
       <workItem from="1562978965687" duration="2656000" />
-      <workItem from="1563076066485" duration="5653000" />
+      <workItem from="1563076066485" duration="7828000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -288,11 +283,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563079525342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="list-group &amp; badge">
+      <created>1563085287880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563085287880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="forms &amp; input">
+      <created>1563086159665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563086159665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11721000" />
+    <option name="totallyTimeSpent" value="13896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="960" height="1055" extended-state="4" />
@@ -303,8 +312,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32918552" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39841986" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32918552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39819005" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -325,7 +334,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bootstrap study" />
     <MESSAGE value="Navbar &amp; Navs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navbar &amp; Navs" />
+    <MESSAGE value="list-group &amp; badge" />
+    <MESSAGE value="forms &amp; input" />
+    <option name="LAST_COMMIT_MESSAGE" value="forms &amp; input" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -438,11 +449,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/3_4_list_groups_badges.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="161" column="41" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
+        <state relative-caret-position="248">
+          <caret line="161" column="52" lean-forward="true" selection-start-line="161" selection-start-column="52" selection-end-line="161" selection-end-column="52" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/3_5_forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="201" column="6" lean-forward="true" selection-start-line="201" selection-start-column="6" selection-end-line="201" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/3_6_input_groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="170" column="52" selection-start-line="170" selection-start-column="52" selection-end-line="170" selection-end-column="52" />
         </state>
       </provider>
     </entry>
