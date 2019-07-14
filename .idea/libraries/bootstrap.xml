@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bootstrap" type="javaScript">
+    <CLASSES />
+    <DOCUMENTATION>
+      <root url="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
