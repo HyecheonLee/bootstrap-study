@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="Grid System">
+    <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/4_3_grid_alignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/4_3_grid_alignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/4_3_grid_alignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="196" column="30" selection-start-line="196" selection-start-column="30" selection-end-line="196" selection-end-column="30" />
+            <state relative-caret-position="476">
+              <caret line="210" column="14" lean-forward="true" selection-start-line="210" selection-start-column="14" selection-end-line="210" selection-end-column="14" />
               <folding>
                 <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -98,24 +98,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yarn.lock">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/sandbox/4_4_flexbox.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="237" column="8" lean-forward="true" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="161">
+              <caret line="164" column="29" lean-forward="true" selection-start-line="164" selection-start-column="29" selection-end-line="164" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="337">
+              <caret line="6986" column="24" selection-start-line="6986" selection-start-column="24" selection-end-line="6986" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -169,6 +173,8 @@
         <option value="$PROJECT_DIR$/sandbox/2_7_sizing.html" />
         <option value="$PROJECT_DIR$/sandbox/4_2_grid_system.html" />
         <option value="$PROJECT_DIR$/sandbox/4_3_grid_alignment.html" />
+        <option value="$PROJECT_DIR$/sandbox/4_4_flexbox.html" />
+        <option value="$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html" />
       </list>
     </option>
   </component>
@@ -181,7 +187,7 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1920" />
     <option name="y" value="25" />
-    <option name="width" value="1364" />
+    <option name="width" value="970" />
     <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -289,7 +295,7 @@
       <workItem from="1563195014380" duration="3593000" />
       <workItem from="1563201031100" duration="2022000" />
       <workItem from="1563286179534" duration="7000" />
-      <workItem from="1563286201255" duration="3015000" />
+      <workItem from="1563286201255" duration="3876000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -375,17 +381,31 @@
       <option name="project" value="LOCAL" />
       <updated>1563288576476</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Grid Alignment">
+      <created>1563289253954</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563289253954</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Flexbox classes">
+      <created>1563289851354</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563289851354</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23186000" />
+    <option name="totallyTimeSpent" value="24047000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="25" width="1147" height="1055" extended-state="4" />
+    <frame x="1920" y="25" width="970" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36487716" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36421725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -422,7 +442,9 @@
     <MESSAGE value="Media Object" />
     <MESSAGE value="Jumbotron" />
     <MESSAGE value="Grid System" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grid System" />
+    <MESSAGE value="Grid Alignment" />
+    <MESSAGE value="Flexbox classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flexbox classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -632,13 +654,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/4_3_grid_alignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="196" column="30" selection-start-line="196" selection-start-column="30" selection-end-line="196" selection-end-column="30" />
+        <state relative-caret-position="476">
+          <caret line="210" column="14" lean-forward="true" selection-start-line="210" selection-start-column="14" selection-end-line="210" selection-end-column="14" />
           <folding>
             <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/4_4_flexbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="237" column="8" lean-forward="true" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="6986" column="24" selection-start-line="6986" selection-start-column="24" selection-end-line="6986" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="164" column="29" lean-forward="true" selection-start-line="164" selection-start-column="29" selection-end-line="164" selection-end-column="29" />
         </state>
       </provider>
     </entry>
