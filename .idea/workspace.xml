@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/5_2_carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/5_2_carousel.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,21 +17,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/3_9_cards.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="384" column="8" lean-forward="true" selection-start-line="384" selection-start-column="8" selection-end-line="384" selection-end-column="8" />
-              <folding>
-                <element signature="e#5162#5182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/3_10_media_object.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
+            <state relative-caret-position="6048">
               <caret line="216" column="20" lean-forward="true" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
             </state>
           </provider>
@@ -40,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/3_11_jumbotron.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="3220">
               <caret line="115" column="12" lean-forward="true" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
             </state>
           </provider>
@@ -49,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/2_6_spacing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
+            <state relative-caret-position="5264">
               <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
               <folding>
                 <element signature="e#7923#7944#0" expanded="true" />
@@ -61,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/2_7_sizing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="4116">
               <caret line="147" column="37" lean-forward="true" selection-start-line="147" selection-start-column="37" selection-end-line="147" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -73,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/4_2_grid_system.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="4760">
               <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -86,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/4_3_grid_alignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="5544">
               <caret line="210" column="14" lean-forward="true" selection-start-line="210" selection-start-column="14" selection-end-line="210" selection-end-column="14" />
               <folding>
                 <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -100,17 +88,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/4_4_flexbox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="6636">
               <caret line="237" column="8" lean-forward="true" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="164" column="29" lean-forward="true" selection-start-line="164" selection-start-column="29" selection-end-line="164" selection-end-column="29" />
+            <state relative-caret-position="301">
+              <caret line="169" column="48" lean-forward="true" selection-start-line="169" selection-start-column="48" selection-end-line="169" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/5_2_carousel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="235" column="24" selection-start-line="235" selection-start-column="24" selection-end-line="235" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -118,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="195608">
               <caret line="6986" column="24" selection-start-line="6986" selection-start-column="24" selection-end-line="6986" selection-end-column="24" />
             </state>
           </provider>
@@ -175,6 +172,7 @@
         <option value="$PROJECT_DIR$/sandbox/4_3_grid_alignment.html" />
         <option value="$PROJECT_DIR$/sandbox/4_4_flexbox.html" />
         <option value="$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html" />
+        <option value="$PROJECT_DIR$/sandbox/5_2_carousel.html" />
       </list>
     </option>
   </component>
@@ -187,7 +185,7 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1920" />
     <option name="y" value="25" />
-    <option name="width" value="970" />
+    <option name="width" value="1010" />
     <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -295,7 +293,8 @@
       <workItem from="1563195014380" duration="3593000" />
       <workItem from="1563201031100" duration="2022000" />
       <workItem from="1563286179534" duration="7000" />
-      <workItem from="1563286201255" duration="3876000" />
+      <workItem from="1563286201255" duration="4528000" />
+      <workItem from="1563372487157" duration="1353000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -395,22 +394,29 @@
       <option name="project" value="LOCAL" />
       <updated>1563289851354</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Auto margin , wrap &amp; ordering">
+      <created>1563290112883</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563290112883</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24047000" />
+    <option name="totallyTimeSpent" value="26052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="25" width="970" height="1055" extended-state="4" />
+    <frame x="1920" y="25" width="1010" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36421725" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29690948" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3280543" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32641292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39819005" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,7 +450,8 @@
     <MESSAGE value="Grid System" />
     <MESSAGE value="Grid Alignment" />
     <MESSAGE value="Flexbox classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flexbox classes" />
+    <MESSAGE value="Auto margin , wrap &amp; ordering" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auto margin , wrap &amp; ordering" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -599,8 +606,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/3_9_cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="384" column="8" lean-forward="true" selection-start-line="384" selection-start-column="8" selection-end-line="384" selection-end-column="8" />
+        <state relative-caret-position="10752">
+          <caret line="384" column="8" selection-start-line="384" selection-start-column="8" selection-end-line="384" selection-end-column="8" />
           <folding>
             <element signature="e#5162#5182#0" expanded="true" />
           </folding>
@@ -609,21 +616,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/3_10_media_object.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
+        <state relative-caret-position="6048">
           <caret line="216" column="20" lean-forward="true" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/3_11_jumbotron.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="3220">
           <caret line="115" column="12" lean-forward="true" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/2_6_spacing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
+        <state relative-caret-position="5264">
           <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
           <folding>
             <element signature="e#7923#7944#0" expanded="true" />
@@ -633,7 +640,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/2_7_sizing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="4116">
           <caret line="147" column="37" lean-forward="true" selection-start-line="147" selection-start-column="37" selection-end-line="147" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -643,7 +650,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/4_2_grid_system.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="4760">
           <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -654,7 +661,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/4_3_grid_alignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="5544">
           <caret line="210" column="14" lean-forward="true" selection-start-line="210" selection-start-column="14" selection-end-line="210" selection-end-column="14" />
           <folding>
             <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -666,22 +673,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/4_4_flexbox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="6636">
           <caret line="237" column="8" lean-forward="true" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="195608">
           <caret line="6986" column="24" selection-start-line="6986" selection-start-column="24" selection-end-line="6986" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="164" column="29" lean-forward="true" selection-start-line="164" selection-start-column="29" selection-end-line="164" selection-end-column="29" />
+        <state relative-caret-position="301">
+          <caret line="169" column="48" lean-forward="true" selection-start-line="169" selection-start-column="48" selection-end-line="169" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/5_2_carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="235" column="24" selection-start-line="235" selection-start-column="24" selection-end-line="235" selection-end-column="24" />
         </state>
       </provider>
     </entry>
