@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/5_2_carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/5_2_carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/5_4_tooltips.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/5_4_tooltips.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/3_10_media_object.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6048">
-              <caret line="216" column="20" lean-forward="true" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/3_11_jumbotron.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3220">
-              <caret line="115" column="12" lean-forward="true" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/2_6_spacing.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +85,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/5_2_carousel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="235" column="24" selection-start-line="235" selection-start-column="24" selection-end-line="235" selection-end-column="24" />
+            <state relative-caret-position="512">
+              <caret line="229" column="19" lean-forward="true" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/5_3_collapse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/5_4_tooltips.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="162" column="23" selection-start-line="162" selection-start-column="23" selection-end-line="162" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -173,6 +173,8 @@
         <option value="$PROJECT_DIR$/sandbox/4_4_flexbox.html" />
         <option value="$PROJECT_DIR$/sandbox/4_5_auto_margins_wrapping_order.html" />
         <option value="$PROJECT_DIR$/sandbox/5_2_carousel.html" />
+        <option value="$PROJECT_DIR$/sandbox/5_3_collapse.html" />
+        <option value="$PROJECT_DIR$/sandbox/5_4_tooltips.html" />
       </list>
     </option>
   </component>
@@ -294,7 +296,7 @@
       <workItem from="1563201031100" duration="2022000" />
       <workItem from="1563286179534" duration="7000" />
       <workItem from="1563286201255" duration="4528000" />
-      <workItem from="1563372487157" duration="1353000" />
+      <workItem from="1563372487157" duration="3202000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -401,17 +403,31 @@
       <option name="project" value="LOCAL" />
       <updated>1563290112883</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="carousel">
+      <created>1563373923817</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563373923817</updated>
+    </task>
+    <task id="LOCAL-00017" summary="collapse">
+      <created>1563375216498</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1563375216498</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26052000" />
+    <option name="totallyTimeSpent" value="27901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1010" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.29690948" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2960251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -451,7 +467,9 @@
     <MESSAGE value="Grid Alignment" />
     <MESSAGE value="Flexbox classes" />
     <MESSAGE value="Auto margin , wrap &amp; ordering" />
-    <option name="LAST_COMMIT_MESSAGE" value="Auto margin , wrap &amp; ordering" />
+    <MESSAGE value="carousel" />
+    <MESSAGE value="collapse" />
+    <option name="LAST_COMMIT_MESSAGE" value="collapse" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -694,8 +712,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/5_2_carousel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="235" column="24" selection-start-line="235" selection-start-column="24" selection-end-line="235" selection-end-column="24" />
+        <state relative-caret-position="512">
+          <caret line="229" column="19" lean-forward="true" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/5_3_collapse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/5_4_tooltips.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="162" column="23" selection-start-line="162" selection-start-column="23" selection-end-line="162" selection-end-column="23" />
         </state>
       </provider>
     </entry>
