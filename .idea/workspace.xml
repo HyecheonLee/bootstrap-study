@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/5_5_popovers.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/5_5_popovers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/5_7_scrollspy.html" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/5_7_scrollspy.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,31 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/2_7_sizing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4116">
-              <caret line="147" column="37" lean-forward="true" selection-start-line="147" selection-start-column="37" selection-end-line="147" selection-end-column="37" />
-              <folding>
-                <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/4_2_grid_system.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4760">
-              <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/4_3_grid_alignment.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +75,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/5_5_popovers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="181" column="24" selection-start-line="181" selection-start-column="24" selection-end-line="181" selection-end-column="24" />
+            <state relative-caret-position="316">
+              <caret line="168" column="18" lean-forward="true" selection-start-line="168" selection-start-column="18" selection-end-line="168" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/5_6_modals.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="130" column="14" selection-start-line="130" selection-start-column="14" selection-end-line="130" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/5_7_scrollspy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="317" column="14" selection-start-line="317" selection-start-column="14" selection-end-line="317" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -136,6 +129,7 @@
       <find>nav-fill</find>
       <find>card Colu</find>
       <find>Rounded Circle</find>
+      <find>main-nav</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,6 +167,8 @@
         <option value="$PROJECT_DIR$/sandbox/5_3_collapse.html" />
         <option value="$PROJECT_DIR$/sandbox/5_4_tooltips.html" />
         <option value="$PROJECT_DIR$/sandbox/5_5_popovers.html" />
+        <option value="$PROJECT_DIR$/sandbox/5_6_modals.html" />
+        <option value="$PROJECT_DIR$/sandbox/5_7_scrollspy.html" />
       </list>
     </option>
   </component>
@@ -295,7 +291,7 @@
       <workItem from="1563286179534" duration="7000" />
       <workItem from="1563286201255" duration="4528000" />
       <workItem from="1563372487157" duration="3231000" />
-      <workItem from="1563454488359" duration="536000" />
+      <workItem from="1563454488359" duration="1711000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -423,11 +419,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563375848403</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="popover">
+      <created>1563455039873</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1563455039873</updated>
+    </task>
+    <task id="LOCAL-00020" summary="modals">
+      <created>1563455517985</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1563455517985</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28466000" />
+    <option name="totallyTimeSpent" value="29641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="960" height="1055" extended-state="4" />
@@ -476,7 +486,9 @@
     <MESSAGE value="carousel" />
     <MESSAGE value="collapse" />
     <MESSAGE value="tooltips" />
-    <option name="LAST_COMMIT_MESSAGE" value="tooltips" />
+    <MESSAGE value="popover" />
+    <MESSAGE value="modals" />
+    <option name="LAST_COMMIT_MESSAGE" value="modals" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -740,8 +752,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/5_5_popovers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="181" column="24" selection-start-line="181" selection-start-column="24" selection-end-line="181" selection-end-column="24" />
+        <state relative-caret-position="316">
+          <caret line="168" column="18" lean-forward="true" selection-start-line="168" selection-start-column="18" selection-end-line="168" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/5_6_modals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="130" column="14" selection-start-line="130" selection-start-column="14" selection-end-line="130" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/5_7_scrollspy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="317" column="14" selection-start-line="317" selection-start-column="14" selection-end-line="317" selection-end-column="14" />
         </state>
       </provider>
     </entry>
