@@ -2,99 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/css/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_deprecate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_stretched-link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/img/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/img/mlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/img/mountains.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/img/person1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/img/person2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/img/person3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/img/person4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mizuxe/scss/_style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizuxe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizuxe/scss/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/bootstrap.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -108,38 +26,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/looplab/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="289" column="31" selection-start-line="289" selection-start-column="31" selection-end-line="289" selection-end-column="31" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mizuxe/css/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mizuxe/scss/mixins/_grid.scss">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mizuxe/css/bootsrap.css">
+        <entry file="file://$PROJECT_DIR$/mizuxe/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-924" />
+            <state relative-caret-position="394">
+              <caret line="7029" column="18" selection-start-line="7029" selection-start-column="18" selection-end-line="7029" selection-end-column="18" />
+              <folding>
+                <element signature="e#28683#28917#2" expanded="true" />
+                <element signature="e#29828#29981#1" expanded="true" />
+                <element signature="e#30023#30257#1" expanded="true" />
+                <element signature="e#33637#33913#2" expanded="true" />
+                <element signature="e#34852#35005#1" expanded="true" />
+                <element signature="e#35047#35323#1" expanded="true" />
+                <element signature="e#69459#69646#2" expanded="true" />
+                <element signature="e#69901#70037#2" expanded="true" />
+                <element signature="e#70490#70623#2" expanded="true" />
+                <element signature="e#71993#72146#1" expanded="true" />
+                <element signature="e#85683#85913#2" expanded="true" />
+                <element signature="e#86944#87180#2" expanded="true" />
+                <element signature="e#121816#121993#2" expanded="true" />
+                <element signature="e#122048#122225#2" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -151,49 +63,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mizuxe/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="283">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mizuxe/scss/bootstrap.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mizuxe/scss/_style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mizuxe/scss/_spinners.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mizuxe/scss/_print.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mizuxe/scss/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="-1652">
+              <caret line="40" column="23" selection-end-line="1123" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3892">
-              <caret line="5" column="134362" selection-start-line="5" selection-start-column="134362" selection-end-line="5" selection-end-column="134362" />
-              <folding>
-                <element signature="e#25768#26002#2" expanded="true" />
-                <element signature="e#26806#26959#1" expanded="true" />
-                <element signature="e#26999#27233#1" expanded="true" />
-                <element signature="e#30239#30515#2" expanded="true" />
-                <element signature="e#31347#31500#1" expanded="true" />
-                <element signature="e#31540#31816#1" expanded="true" />
-                <element signature="e#61072#61259#2" expanded="true" />
-                <element signature="e#61488#61624#2" expanded="true" />
-                <element signature="e#62027#62160#2" expanded="true" />
-                <element signature="e#63642#63795#1" expanded="true" />
-                <element signature="e#75788#76018#2" expanded="true" />
-                <element signature="e#76885#77121#2" expanded="true" />
-                <element signature="e#106714#106891#2" expanded="true" />
-                <element signature="e#106937#107114#2" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs4boiler/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -212,6 +126,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -272,8 +187,12 @@
         <option value="$PROJECT_DIR$/looplab/index.html" />
         <option value="$PROJECT_DIR$/mizuxe/css/style.css" />
         <option value="$PROJECT_DIR$/mizuxe/css/style.scss" />
-        <option value="$PROJECT_DIR$/mizuxe/index.html" />
         <option value="$PROJECT_DIR$/mizuxe/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/mizuxe/index.html" />
+        <option value="$PROJECT_DIR$/mizuxe/scss/style.scss" />
+        <option value="$PROJECT_DIR$/mizuxe/scss/_print.scss" />
+        <option value="$PROJECT_DIR$/mizuxe/scss/bootstrap.scss" />
+        <option value="$PROJECT_DIR$/mizuxe/scss/_style.scss" />
       </list>
     </option>
   </component>
@@ -286,8 +205,8 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1920" />
     <option name="y" value="25" />
-    <option name="width" value="960" />
-    <option name="height" value="1055" />
+    <option name="width" value="1271" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -295,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,8 +251,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mizuxe/scss" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mizuxe/img" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
@@ -347,11 +266,11 @@
       <recent name="$PROJECT_DIR$/sandbox" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mizuxe/img" />
       <recent name="$PROJECT_DIR$/mizuxe/scss" />
       <recent name="$PROJECT_DIR$/mizuxe" />
       <recent name="$PROJECT_DIR$/looplab/img" />
       <recent name="$PROJECT_DIR$/looplab" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -417,7 +336,8 @@
       <workItem from="1563545874475" duration="3642000" />
       <workItem from="1563605233791" duration="2780000" />
       <workItem from="1563637799364" duration="599000" />
-      <workItem from="1563698936346" duration="2299000" />
+      <workItem from="1563698936346" duration="2988000" />
+      <workItem from="1563701958271" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -601,30 +521,37 @@
       <option name="project" value="LOCAL" />
       <updated>1563608469071</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Setting Up Sass">
+      <created>1563701270250</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1563701270250</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40379000" />
+    <option name="totallyTimeSpent" value="41449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="25" width="960" height="1055" extended-state="4" />
+    <frame x="1920" y="25" width="960" height="1053" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34437087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35430464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32641292" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32601157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39819005" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32871974" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32947975" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3283237" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -637,7 +564,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bootstrap study" />
     <MESSAGE value="Navbar &amp; Navs" />
     <MESSAGE value="list-group &amp; badge" />
     <MESSAGE value="forms &amp; input" />
@@ -662,7 +588,8 @@
     <MESSAGE value="Explore Section Area" />
     <MESSAGE value="Create &amp; Share Section Areas" />
     <MESSAGE value="Footer Contact Modal &amp; Menu Smooth Scroll" />
-    <option name="LAST_COMMIT_MESSAGE" value="Footer Contact Modal &amp; Menu Smooth Scroll" />
+    <MESSAGE value="Setting Up Sass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting Up Sass" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -985,16 +912,9 @@
     <entry file="file://$PROJECT_DIR$/bs4boiler/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13384">
-          <caret line="478" column="1" selection-start-line="478" selection-start-column="1" selection-end-line="478" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/looplab/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="6636">
           <caret line="289" column="31" selection-start-line="289" selection-start-column="31" selection-end-line="289" selection-end-column="31" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -1005,9 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mizuxe/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -1015,25 +932,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mizuxe/scss/mixins/_grid.scss">
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mizuxe/css/bootsrap.css">
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mizuxe/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="13384">
+          <caret line="478" column="1" selection-start-line="478" selection-start-column="1" selection-end-line="478" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mizuxe/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="-1652">
+          <caret line="40" column="23" selection-end-line="1123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxe/scss/mixins/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxe/scss/_print.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxe/scss/_spinners.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxe/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="7029" column="18" selection-start-line="7029" selection-start-column="18" selection-end-line="7029" selection-end-column="18" />
+          <folding>
+            <element signature="e#28683#28917#2" expanded="true" />
+            <element signature="e#29828#29981#1" expanded="true" />
+            <element signature="e#30023#30257#1" expanded="true" />
+            <element signature="e#33637#33913#2" expanded="true" />
+            <element signature="e#34852#35005#1" expanded="true" />
+            <element signature="e#35047#35323#1" expanded="true" />
+            <element signature="e#69459#69646#2" expanded="true" />
+            <element signature="e#69901#70037#2" expanded="true" />
+            <element signature="e#70490#70623#2" expanded="true" />
+            <element signature="e#71993#72146#1" expanded="true" />
+            <element signature="e#85683#85913#2" expanded="true" />
+            <element signature="e#86944#87180#2" expanded="true" />
+            <element signature="e#121816#121993#2" expanded="true" />
+            <element signature="e#122048#122225#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxe/scss/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizuxe/scss/_style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
