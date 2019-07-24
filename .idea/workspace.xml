@@ -2,189 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_alert.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_badge.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_breadcrumb.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_button-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_buttons.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_card.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_carousel.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_close.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_code.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_custom-forms.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_dropdown.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_forms.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_functions.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_grid.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_images.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_input-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_jumbotron.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_list-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_media.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_mixins.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_modal.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_nav.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_navbar.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_pagination.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_popover.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_print.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_progress.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_reboot.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_root.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_spinners.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_tables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_toasts.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_tooltip.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_transitions.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_type.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_utilities.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/_variables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/00e0ee045c3993f560fd5cf06316f405f2acd43b/bootstrap.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/32b24851aef5c4f1a45ce3306c4a69d6b72a14b3/_rfs.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_alert.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_background-variant.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_badge.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_border-radius.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_box-shadow.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_breakpoints.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_buttons.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_caret.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_clearfix.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_deprecate.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_float.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_forms.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_gradients.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_grid-framework.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_grid.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_hover.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_image.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_list-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_lists.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_nav-divider.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_pagination.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_reset-text.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_resize.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_screen-reader.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_size.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_table-row.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_text-emphasis.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_text-hide.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_text-truncate.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_transition.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/367e258fe3b2376dcb881231b8e497c4994d4138/_visibility.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_align.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_background.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_borders.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_clearfix.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_display.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_embed.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_flex.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_float.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_overflow.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_position.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_screenreaders.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_shadows.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_sizing.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_spacing.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_stretched-link.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_text.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/6843bfc3de5ce529b1d9187a2628be672796680a/_visibility.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/7f5997a0550751794e4f2e581a678b5aee8d870c/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mizuxe/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mizuxe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_breadcrumb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_button-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_custom-forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_images.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_popover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_root.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_spinners.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_toasts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/bootstrap-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/bootstrap-reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_box-shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_caret.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_deprecate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_hover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_text-hide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_text-truncate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/mixins/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_borders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_display.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_flex.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_overflow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_screenreaders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_shadows.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_stretched-link.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/utilities/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/7f5997a0550751794e4f2e581a678b5aee8d870c/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/7f5997a0550751794e4f2e581a678b5aee8d870c/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizuxe/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizuxe/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizuxe/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -200,20 +23,6 @@
         <option value="SCSS File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>aligin</find>
-      <find>Text aligned left</find>
-      <find>$spacer</find>
-      <find>Fill</find>
-      <find>nav-fill</find>
-      <find>card Colu</find>
-      <find>Rounded Circle</find>
-      <find>card</find>
-      <find>main-nav</find>
-      <find>Build social</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -323,7 +132,7 @@
       <workItem from="1563698936346" duration="2988000" />
       <workItem from="1563701958271" duration="1070000" />
       <workItem from="1563971490192" duration="25000" />
-      <workItem from="1563971528972" duration="867000" />
+      <workItem from="1563971528972" duration="2800000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -521,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563702423060</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Showcase &amp; Primary Color change">
+      <created>1563972485003</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1563972485003</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +358,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="list-group &amp; badge" />
     <MESSAGE value="forms &amp; input" />
     <MESSAGE value="input group" />
     <MESSAGE value="Alerts &amp; Progress Bars" />
@@ -567,7 +382,8 @@
     <MESSAGE value="Footer Contact Modal &amp; Menu Smooth Scroll" />
     <MESSAGE value="Setting Up Sass" />
     <MESSAGE value="Custom Navbar &amp; Logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Custom Navbar &amp; Logo" />
+    <MESSAGE value="Showcase &amp; Primary Color change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Showcase &amp; Primary Color change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
