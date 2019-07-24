@@ -132,7 +132,7 @@
       <workItem from="1563698936346" duration="2988000" />
       <workItem from="1563701958271" duration="1070000" />
       <workItem from="1563971490192" duration="25000" />
-      <workItem from="1563971528972" duration="2800000" />
+      <workItem from="1563971528972" duration="4101000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -337,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563972485003</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Newsletter &amp; Boxes">
+      <created>1563974352236</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1563974352236</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +365,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="forms &amp; input" />
     <MESSAGE value="input group" />
     <MESSAGE value="Alerts &amp; Progress Bars" />
     <MESSAGE value="Tables &amp; Pagination" />
@@ -383,7 +389,8 @@
     <MESSAGE value="Setting Up Sass" />
     <MESSAGE value="Custom Navbar &amp; Logo" />
     <MESSAGE value="Showcase &amp; Primary Color change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Showcase &amp; Primary Color change" />
+    <MESSAGE value="Newsletter &amp; Boxes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newsletter &amp; Boxes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
