@@ -10,9 +10,9 @@
     <link rel="stylesheet" href="css/style.scss">
     <title>Document</title>
 </head>
-<body>
+<body id="home" data-spy="scroll" data-target="#main-nav">
 <!-- Start here -->
-<nav class="navbar navbar-expand-md navbar-light fixed-top py-4">
+<nav class="navbar navbar-expand-md navbar-light fixed-top py-4" id="main-nav">
     <div class="container">
         <a href="#" class="navbar-brand">
             <img src="img/mlogo.png" width="50" height="50"/>
@@ -30,7 +30,7 @@
                     <a href="#about" class="nav-link">About</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#author" class="nav-link">Meet The Author</a>
+                    <a href="#authors" class="nav-link">Meet The Author</a>
                 </li>
                 <li class="nav-item">
                     <a href="#contact" class="nav-link">Contact</a>
@@ -333,12 +333,86 @@
         </div>
     </div>
 </section>
+<!-- Contact -->
+<section id="contact" class="bg-light py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                <h3>Get In Touch</h3>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, tempore.</p>
+                <form>
+                    <div class="input-group input-group-lg mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fas fa-user"></i>
+                            </span>
+                        </div>
+                        <input type="text" class="form-control" placeholder="Name"/>
+                    </div>
+                    <div class="input-group input-group-lg mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fas fa-envelope-open"></i>
+                            </span>
+                        </div>
+                        <input type="email" class="form-control" placeholder="Email"/>
+                    </div>
+                    <div class="input-group input-group-lg mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fas fa-pencil-alt"></i>
+                            </span>
+                        </div>
+                        <textarea class="form-control" placeholder="Message" rows="5"></textarea>
+                    </div>
+                    <input type="submit" value="Submit" class="btn btn-primary btn-block btn-lg">
+                </form>
+            </div>
+            <div class="col-lg-3 align-self-center">
+                <img src="img/mlogo.png" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Footer -->
+<footer id="main-footer" class="py-5 bg-primary text-white">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-6 ml-auto">
+                <p class="lead">Copyright &copy;</p>
+                <span id="year"></span>
+            </div>
+        </div>
+    </div>
+</footer>
 <script src="/node_modules/jquery/dist/jquery.min.js"></script>
 <script src="/node_modules/popper.js/dist/popper.min.js"></script>
 <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 <script>
   //Get the current year for the copyright
   $("#year").text(new Date().getFullYear());
+  // Init Scrollspy
+  $('body').scrollspy({target: '#main-nav'})
+  //smooth scrolling
+  $('body').scrollspy({target: '#main-nav'});
+  // add smooth scrolling
+  $('#main-nav a').on('click', function (e) {
+    //check for a hash value
+    if (this.hash !== '') {
+      // Prevent default behavior
+      e.preventDefault();
+      // store hash
+      const hash = this.hash;
+
+      //Animate smooth scroll
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 500, function () {
+        // Add hash to URL after scroll
+        window.location.hash = hash;
+      })
+    }
+  });
 </script>
 </body>
 </html>

@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mizuxe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/7f5997a0550751794e4f2e581a678b5aee8d870c/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/7f5997a0550751794e4f2e581a678b5aee8d870c/style.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mizuxe/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,7 +130,7 @@
       <workItem from="1563698936346" duration="2988000" />
       <workItem from="1563701958271" duration="1070000" />
       <workItem from="1563971490192" duration="25000" />
-      <workItem from="1563971528972" duration="4101000" />
+      <workItem from="1563971528972" duration="4926000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -344,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563974352236</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Authors Area">
+      <created>1563975672001</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1563975672001</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +370,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="input group" />
     <MESSAGE value="Alerts &amp; Progress Bars" />
     <MESSAGE value="Tables &amp; Pagination" />
     <MESSAGE value="working with cards" />
@@ -390,7 +394,8 @@
     <MESSAGE value="Custom Navbar &amp; Logo" />
     <MESSAGE value="Showcase &amp; Primary Color change" />
     <MESSAGE value="Newsletter &amp; Boxes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Newsletter &amp; Boxes" />
+    <MESSAGE value="Authors Area" />
+    <option name="LAST_COMMIT_MESSAGE" value="Authors Area" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
