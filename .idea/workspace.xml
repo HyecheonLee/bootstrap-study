@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="">
+    <list default="true" id="e1e3adc5-f314-4d56-be34-17412a33fafa" name="Default Changelist" comment="contact &amp; footer">
+      <change afterPath="$PROJECT_DIR$/glozzom/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/laptop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/lights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/media.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/mlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/mountains.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/img/person4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glozzom/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/7f5997a0550751794e4f2e581a678b5aee8d870c/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/.sass-cache/7f5997a0550751794e4f2e581a678b5aee8d870c/style.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mizuxe/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mizuxe/scss/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mizuxe/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/glozzom/img" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
@@ -53,15 +65,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sandbox" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/glozzom/img" />
+      <recent name="$PROJECT_DIR$/glozzom" />
       <recent name="$PROJECT_DIR$/mizuxe/img" />
       <recent name="$PROJECT_DIR$/mizuxe/scss" />
       <recent name="$PROJECT_DIR$/mizuxe" />
-      <recent name="$PROJECT_DIR$/looplab/img" />
-      <recent name="$PROJECT_DIR$/looplab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sandbox" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -130,7 +142,9 @@
       <workItem from="1563698936346" duration="2988000" />
       <workItem from="1563701958271" duration="1070000" />
       <workItem from="1563971490192" duration="25000" />
-      <workItem from="1563971528972" duration="4926000" />
+      <workItem from="1563971528972" duration="5625000" />
+      <workItem from="1564325094513" duration="114000" />
+      <workItem from="1564325223155" duration="1325000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -349,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563975672001</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="contact &amp; footer">
+      <created>1563976524986</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1563976524986</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +391,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Alerts &amp; Progress Bars" />
     <MESSAGE value="Tables &amp; Pagination" />
     <MESSAGE value="working with cards" />
     <MESSAGE value="Media Object" />
@@ -395,7 +415,8 @@
     <MESSAGE value="Showcase &amp; Primary Color change" />
     <MESSAGE value="Newsletter &amp; Boxes" />
     <MESSAGE value="Authors Area" />
-    <option name="LAST_COMMIT_MESSAGE" value="Authors Area" />
+    <MESSAGE value="contact &amp; footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact &amp; footer" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
