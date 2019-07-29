@@ -143,7 +143,35 @@
         </div>
     </div>
 </section>
-
+<!-- Video play-->
+<section id="video-play">
+    <div class="dark-overlay">
+        <div class="row">
+            <div class="col">
+                <div class="container p-5">
+                    <a href="#" class="video" data-video="https://www.youtube.com/embed/HnwsG9a5riA"
+                       data-toggle="modal" data-target="#videoModal">
+                        <i class="fas fa-play fa-3x"></i>
+                    </a>
+                    <h1>See What We Do</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Video modal-->
+<div class="modal fade" id="videoModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button class="close" data-dismiss="modal">
+                    <span>&times;</span>
+                </button>
+                <iframe src="" frameborder="0" height="350" width="100%" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</div>
 <span id="year"></span>
 <script src="/node_modules/jquery/dist/jquery.min.js"></script>
 <script src="/node_modules/popper.js/dist/popper.min.js"></script>
@@ -155,7 +183,42 @@
   $('.carousel').carousel({
     interval: 6000,
     pause: 'hover'
-  })
+  });
+  $(function () {
+    $(".video").click(function () {
+      let theModal = $(this).data("target");
+      let videoSrc = $(this).attr("data-video");
+      let videoSrcAuto = videoSrc + "?modestbranding=1&rel=0&controls=0&showinfo=0&html5=1&autoplay=1";
+      $(theModal + " iframe").attr('src', videoSrcAuto);
+      $(theModal + " button.close").click(function () {
+        $(theModal + " iframe").attr('src', videoSrc);
+      });
+    });
+  });
+
+  /*$(document).ready(function () {
+
+    autoPlayYouTubeModal();
+
+    //FUNCTION TO GET AND AUTO PLAY YOUTUBE VIDEO FROM DATATAG
+    function autoPlayYouTubeModal() {
+      var trigger = $("body").find('[data-toggle="modal"]');
+      trigger.click(function () {
+        var theModal = $(this).data("target"),
+          videoSRC = $(this).attr("data-theVideo"),
+          videoSRCauto = videoSRC + "?autoplay=1";
+        $(theModal + ' iframe').attr('src', videoSRCauto);
+        $(theModal + ' button.close').click(function () {
+          $(theModal + ' iframe').attr('src', videoSRC);
+        });
+        $('.modal').click(function () {
+          $(theModal + ' iframe').attr('src', videoSRC);
+        });
+        //video play on click
+        $('.video-player-main iframe')[0].contentWindow.postMessage('{func":"playVideo":""}', '*');
+      });
+    }
+  });*/
 </script>
 </body>
 </html>
