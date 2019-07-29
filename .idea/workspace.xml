@@ -132,7 +132,7 @@
       <workItem from="1563971528972" duration="5625000" />
       <workItem from="1564325094513" duration="114000" />
       <workItem from="1564325223155" duration="2975000" />
-      <workItem from="1564404501550" duration="1508000" />
+      <workItem from="1564404501550" duration="3479000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap study">
       <created>1563077624845</created>
@@ -372,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564327595580</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Video Section with Autoplay Modal">
+      <created>1564406428297</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1564406428297</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +400,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Media Object" />
     <MESSAGE value="Jumbotron" />
     <MESSAGE value="Grid System" />
     <MESSAGE value="Grid Alignment" />
@@ -418,7 +424,8 @@
     <MESSAGE value="contact &amp; footer" />
     <MESSAGE value="showcase with carousel" />
     <MESSAGE value="Home icons , heading &amp; info sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home icons , heading &amp; info sections" />
+    <MESSAGE value="Video Section with Autoplay Modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video Section with Autoplay Modal" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
